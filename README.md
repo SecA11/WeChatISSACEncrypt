@@ -1,0 +1,2 @@
+# WeChatISSACEncrypt
+微信iOS版本下载使用ISSAC算法加密过的图片逆向分析并解密
